@@ -56,7 +56,7 @@ const Header: React.FC<HeaderProps> = ({ cartItemCount }) => {
               className="flex items-center text-gray-700 hover:text-construction-brown transition-colors"
             >
               <Phone className="w-5 h-5 mr-1" />
-              <span className="text-sm font-medium">9999-9999</span>
+              <span className="text-sm font-medium">8820-4057</span>
             </a>
             <Link
               to="/cart"
@@ -106,7 +106,7 @@ const Header: React.FC<HeaderProps> = ({ cartItemCount }) => {
                   className="flex items-center px-3 py-2 text-gray-700 hover:text-construction-brown transition-colors"
                 >
                   <Phone className="w-5 h-5 mr-2" />
-                  <span className="text-base font-medium">9999-9999</span>
+                  <span className="text-base font-medium">8820-4057</span>
                 </a>
                 <Link
                   to="/cart"

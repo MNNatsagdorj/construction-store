@@ -15,7 +15,7 @@ const Orders: React.FC = () => {
       ],
       totalAmount: 73000,
       deliveryAddress: 'СБД, 1-р хороо, 15-р хороолол, 45-р байр',
-      phone: '9999-9999',
+      phone: '8820-4057',
       status: 'processing',
       createdAt: new Date('2024-01-15'),
       deliveryOption: 'city',

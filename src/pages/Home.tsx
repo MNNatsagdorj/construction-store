@@ -30,7 +30,7 @@ const Home: React.FC = () => {
                   className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-construction-brown transition-colors flex items-center justify-center"
                 >
                   <Phone className="mr-2 w-5 h-5" />
-                  9999-9999
+                  8820-4057
                 </a>
               </div>
             </div>
@@ -158,7 +158,7 @@ const Home: React.FC = () => {
               className="bg-white text-construction-brown px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors flex items-center justify-center"
             >
               <Phone className="mr-2 w-5 h-5" />
-              Утас: 9999-9999
+              Утас: 8820-4057
             </a>
             <Link
               to="/contact"

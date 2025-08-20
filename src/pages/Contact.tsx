@@ -48,7 +48,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div className="ml-3">
                     <h3 className="text-sm font-medium text-gray-900">Утас</h3>
-                    <p className="text-sm text-gray-600">9999-9999</p>
+                    <p className="text-sm text-gray-600">8820-4057</p>
                     <p className="text-sm text-gray-600">8888-8888</p>
                   </div>
                 </div>
