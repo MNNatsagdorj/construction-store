@@ -13,7 +13,7 @@ function App() {
   const [cartItemCount] = useState(2); // Mock data
 
   return (
-    <Router>
+    <Router basename="/construction-store">
       <div className="App min-h-screen bg-gray-50">
         <Header cartItemCount={cartItemCount} />
         
