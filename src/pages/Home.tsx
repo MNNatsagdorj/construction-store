@@ -5,12 +5,6 @@ import { ArrowRight, Phone, MessageCircle, Truck, Shield, Star } from 'lucide-re
 const Home: React.FC = () => {
   return (
     <div className="min-h-screen">
-      {/* Test div to check if component is rendering */}
-      <div style={{ backgroundColor: 'red', color: 'white', padding: '20px', textAlign: 'center' }}>
-        TEST: Home component is rendering!
-      </div>
-      
-      {/* Hero Section */}
       <section className="relative bg-gradient-to-r from-construction-brown to-construction-sand text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
